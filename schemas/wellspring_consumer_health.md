@@ -96,4 +96,4 @@ CREATE TABLE nps_responses (
 ## Version history
 
 - **v1:** `sessions` (`session_id`, `user_id`, `session_start`, `device_type`), `events`, `experiment_assignment`.
-- **v2** added `users`, `referrals`, `nps_responses`; `sessions.session_end` and `sessions.action_count`; new event types `complete_assessment`, `invite_sent`, `share_progress`, `notification_sent`, `reminder_sent`; `event_date` declared as `TIMESTAMP`. No existing column was renamed or removed, so solutions written against v1 still run unchanged.
+- **v2** added `users`, `referrals`, `nps_responses`; `sessions.session_end` and `sessions.action_count`; new event types `complete_assessment`, `invite_sent`, `share_progress`, `notification_sent`, `reminder_sent`; `event_date` declared as `TIMESTAMP`.
