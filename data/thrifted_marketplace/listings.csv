@@ -1,0 +1,11 @@
+listing_id,seller_id,category,price
+101,1,dresses,25.00
+102,1,shoes,40.00
+103,2,jackets,60.00
+104,2,dresses,18.50
+105,3,accessories,12.00
+106,3,jackets,75.00
+107,4,shoes,33.00
+108,4,dresses,22.00
+109,5,accessories,9.50
+110,5,jackets,55.00
